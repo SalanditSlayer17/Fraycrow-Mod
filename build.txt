@@ -1,0 +1,3 @@
+displayName = Fraycrow Mod
+author = Salandit, Ayl0
+version = 0.1
