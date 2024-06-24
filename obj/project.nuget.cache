@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "coNPawuetV1Hauvaj3+SxFx9N0ilkI1K5p81RWAXOyjXFm/NuYToJwg3Uw+s0ClcJ9ozO+bTjPmUUvZsrMK1Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Salan\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FraycrowRe\\FraycrowRe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salan\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
